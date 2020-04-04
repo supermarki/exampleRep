@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LPML shedules </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textOstap">ТІОМР Що це???</string>
+    <string name="button2">Кніпочка</string>
+    <string name="button1">Остап</string>
+    <string name="hello_lpml">Hello LPML!</string>
+</resources>
