@@ -5,6 +5,8 @@
     <string name="title_notifications">Notifications</string>
     <string name="textOstap">ТІОМР Що це???</string>
     <string name="button2">Кніпочка</string>
-    <string name="button1">Остап</string>
+    <string name="button1">Хз</string>
     <string name="hello_lpml">Hello LPML!</string>
+    <string name="Button3">Невідома кнопка</string>
+    <string name="text2">СТРАШНА ПРОГРАМА</string>
 </resources>
